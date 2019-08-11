@@ -1,9 +1,8 @@
-class Dog  #object 
+class Dog  #object
 
 
-end 
+end
 
 fido = Dog.new("fido")
 snoopy = Dog.new("snoopy")
 lassie = Dog.new("lassie")
-
